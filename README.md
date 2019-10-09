@@ -1,7 +1,7 @@
-# Limiter
+# 🤞Limiter
 Limit any of request simple. Sometimes you want to limit any of request or data. So here is a simple solution for limits.
 
-## Example
+### Example
 ```go
 // ok, lets create a new limiter
 // with 10 request per minute max
