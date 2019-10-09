@@ -1,5 +1,5 @@
 # 💂Limiter
-Limit any of request simple. Sometimes you want to limit any of request or data. So here is a simple solution for limits.
+Limit any request is simple now. Sometimes you want to limit api requests or any data. So this is a simple solution for limits. I use it in production.
 
 ### Install
 ```go get -u github.com/prestone/limiter```
